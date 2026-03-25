@@ -1,0 +1,25 @@
+[
+    {
+        "cultura": "Burley",
+        "variedade": "AOB-962",
+        "area": 2,
+        "data_plantio": "01/03/2026",
+        "diario": [
+            "22/03/2026: [PEÃO] Mathias - R$ 200.00",
+            "24/03/2026: Aplicado 57 un de Yara 10-07-10. (R$ 7809.00)",
+            "24/03/2026: Aplicado 1.5 un de Gammit. (R$ 355.50)"
+        ],
+        "custo_total": 33226.5
+    },
+    {
+        "cultura": "Canteiro 01",
+        "variedade": "Verdão",
+        "area": 0,
+        "data_plantio": "01/03/2026",
+        "diario": [
+            "21/03/2026: Lote cadastrado.",
+            "21/03/2026: Canteiro com 12500 pés de fumo"
+        ],
+        "custo_total": 2877.0
+    }
+]

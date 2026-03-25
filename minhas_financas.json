@@ -1,0 +1,58 @@
+[
+    {
+        "data": "18/03/2026",
+        "desc": "peao",
+        "val": 200.0,
+        "cat": "Mão de Obra",
+        "lote": "Fumo Burley"
+    },
+    {
+        "data": "18/03/2026",
+        "desc": "Diesel",
+        "val": 670.0,
+        "cat": "Combustível",
+        "lote": "Fumo Burley"
+    },
+    {
+        "data": "18/03/2026",
+        "desc": "peao/Douglas",
+        "val": 200.0,
+        "cat": "Mão de Obra",
+        "lote": "Fumo Burley"
+    },
+    {
+        "data": "18/03/2026",
+        "desc": "Gasolina",
+        "val": 20.0,
+        "cat": "Combustível",
+        "lote": "Milho"
+    },
+    {
+        "data": "18/03",
+        "desc": "peao/matias",
+        "val": 200.0,
+        "lote": "Fumo Burley",
+        "cat": "Operacional"
+    },
+    {
+        "data": "18/03",
+        "desc": "peao/matias",
+        "val": 200.0,
+        "lote": "Fumo Burley",
+        "cat": "Operacional"
+    },
+    {
+        "data": "22/03",
+        "desc": "Lona preta 12x1,50",
+        "val": 75.0,
+        "lote": "Canteiro 01",
+        "cat": "Operacional"
+    },
+    {
+        "data": "22/03",
+        "desc": "Lona preta 14x2,10",
+        "val": 90.0,
+        "lote": "Canteiro 01",
+        "cat": "Operacional"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "AOB-962",
+        "categoria": "Sementes",
+        "qtd": 2.0,
+        "preco": 157.0,
+        "unidade": "Un"
+    },
+    {
+        "nome": "Yara 10-07-10",
+        "categoria": "Adubos",
+        "qtd": 93.0,
+        "preco": 145.0,
+        "unidade": "un"
+    },
+    {
+        "nome": "Yara 15-03-15",
+        "categoria": "Adubos",
+        "qtd": 30.0,
+        "preco": 195.0,
+        "unidade": "un"
+    },
+    {
+        "nome": "Gammit",
+        "categoria": "Defensivos",
+        "qtd": 2.5,
+        "preco": 237.0,
+        "unidade": "un"
+    },
+    {
+        "nome": "Diesel",
+        "categoria": "Diesel",
+        "qtd": 90.0,
+        "preco": 6.75,
+        "unidade": "un"
+    }
+]
